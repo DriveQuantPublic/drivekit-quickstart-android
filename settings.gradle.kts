@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application Quickstart"
+rootProject.name = "DriveKit Quickstart"
 include(":app")
  
