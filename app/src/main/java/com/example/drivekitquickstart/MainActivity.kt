@@ -62,6 +62,7 @@ fun AskForPermissions() {
         },
         colors = ButtonDefaults.buttonColors(
             containerColor = MaterialTheme.colorScheme.secondaryContainer,
+            contentColor = MaterialTheme.colorScheme.onSecondaryContainer
         ), modifier = Modifier.fillMaxWidth()
     ) {
         Text("Ask for permissions")
@@ -75,6 +76,7 @@ fun ConfigureDriveKit() {
             configureDriveKit()
         }, colors = ButtonDefaults.buttonColors(
             containerColor = MaterialTheme.colorScheme.secondaryContainer,
+            contentColor = MaterialTheme.colorScheme.onSecondaryContainer
         ), modifier = Modifier.fillMaxWidth()
     ) {
         Text("Configure DriveKit")
