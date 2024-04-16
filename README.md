@@ -18,5 +18,5 @@ The DriveKit Android quickstart is a simple app that shows you how to integrate 
 # What’s next?
 
 * Discover our [open-sourced DriveKit App Demo](https://github.com/DriveQuantPublic/drivekit-ui-android) which integrates all available DriveKit modules.
-* Integrate the DriveKit SDK in your own app by reading the [Quick start page](https://docs.drivequant.com/drivekit/quick-start)
-* Fine-tune your DriveKit integration with [advanced configurations](https://docs.drivequant.com/drivekit/get-started-drivekit/android/quick-start).
+* Integrate the DriveKit SDK in your own app by reading the [Quick start page](https://docs.drivequant.com/get-started-drivekit/android/quick-start)
+* Fine-tune your DriveKit integration with [advanced configurations](https://docs.drivequant.com/get-started-drivekit/android/advanced-configurations).
