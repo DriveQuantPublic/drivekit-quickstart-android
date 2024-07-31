@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.drivekitquickstart"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.drivekitquickstart"
         minSdk = 23
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -67,6 +67,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation("com.drivequant.drivekit:drivekit-trip-analysis:2.3.0")
-    implementation("com.drivequant.drivekit:drivekit-permissions-utils-ui:2.3.0")
+    implementation("com.drivequant.drivekit:drivekit-trip-analysis:2.4.0")
+    implementation("com.drivequant.drivekit:drivekit-permissions-utils-ui:2.4.0")
 }
