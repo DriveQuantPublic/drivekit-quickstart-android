@@ -67,6 +67,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation("com.drivequant.drivekit:drivekit-trip-analysis:2.4.0")
-    implementation("com.drivequant.drivekit:drivekit-permissions-utils-ui:2.4.0")
+    implementation(libs.drivekit.tripanalysis)
+    implementation(libs.drivekit.permissionsutils.ui)
 }
