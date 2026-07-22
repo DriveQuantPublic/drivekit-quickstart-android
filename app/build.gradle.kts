@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.drivekitquickstart"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.example.drivekitquickstart"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0"
 
