@@ -1,7 +1,7 @@
 [versions]
 agp = "8.13.2"
-drivekitPermissionsUtilsUi = "3.4.2"
-drivekitTripAnalysis = "3.3.1"
+drivekitPermissionsUtilsUi = "3.5.0"
+drivekitTripAnalysis = "3.4.0"
 kotlin = "1.9.0"
 coreKtx = "1.16.0"
 junit = "4.13.2"

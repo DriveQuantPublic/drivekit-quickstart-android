@@ -16,9 +16,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        // Just for the 3.4.1 UI release. Starting from 3.5.0 of UI modules, will be available on GitLab Package Registry.
         maven {
-            url = uri("https://maven.drivequant.com/repository/android-sdk/")
+            url = uri("https://gitlab.com/api/v4/projects/84225187/packages/maven")
         }
     }
 }
